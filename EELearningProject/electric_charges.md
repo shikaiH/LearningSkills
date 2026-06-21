@@ -1,7 +1,15 @@
+Atoms consists of?
+1. electrons
+2. protons
+3. neutrons
+
+What is charge?
+an electrical property of the atomic particles of which matter consists, measured in coulombs(C)
+
+
 About electrical charge definition and formula 
 
 charge e = $1.602 × 10^{-19} C$
-
 while a proton carries a positive charge of the same magnitude as the electron.
 
 coulomb = $1/(1.602 × 10^{-19}) = 6.24 × 10^{18} e$ 
