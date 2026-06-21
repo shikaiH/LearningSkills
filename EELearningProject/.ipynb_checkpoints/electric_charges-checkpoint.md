@@ -8,7 +8,7 @@
 An electrical property of the atomic particles of which matter consists, measured in coulombs(C)
 
 
-## Definition and formula of electric charge
+## About electrical charge definition and formula 
 
 e = $1.602 × 10^{-19} C$
 
@@ -27,8 +27,3 @@ $e = -1.602 × 10^{-19}C$.
 The law of conservation of charge states that charge can neither be
 created nor destroyed, only transferred. Thus, the algebraic sum of
 the electric charges in a system does not change.
-
-## The flow of electric charges
-
-Electric charges or electricity is the fact that it is mobile.
-It can be transferred from one place to another, where it can be converted to another form of energy.
