@@ -32,3 +32,8 @@ the electric charges in a system does not change.
 
 Electric charges or electricity is the fact that it is mobile.
 It can be transferred from one place to another, where it can be converted to another form of energy.
+
+## Definition and formula of electric current
+
+Electric current is the time rate of change of charge, measured in amperes $(A)$.
+The relation between current i, charge q, and time t
