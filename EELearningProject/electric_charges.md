@@ -35,6 +35,7 @@ It can be transferred from one place to another, where it can be converted to an
 
 ## Definition and formula of electric current
 
+<<<<<<< HEAD
 Electric current is the time rate of change of charge, measured in amperes $(A)$
 
 Mathematically, the relationship between current i, charge q, and time t is where current is meausred in amperes $(A)$, 
@@ -46,3 +47,8 @@ The charge transferred between time t_0 and t is obtained by integrating both si
 $Q \triangleq \int_{t_0}^{t} i \, dt$
 
 
+=======
+Electric current is the time rate of change of charge, measured in amperes $(A)$.
+The relation between current i, charge q, and time t
+$i \triangleq \frac{dq}{dt}$
+>>>>>>> 3db30fa5d3406f791db412a79bbaaf6253b10715
