@@ -37,16 +37,11 @@ It can be transferred from one place to another, where it can be converted to an
 
 Electric current is the time rate of change of charge, measured in amperes $(A)$
 
-Mathematically, the relationship between current i, charge q, and time t is where current is meausred in amperes $(A)$, 
-$i \triangleq \frac{de}{dt}$
+Mathematically, the relationship between current i, charge q, and time t is where current is meausred in amperes $(A)$,
 
-$1 ampere = 1 coulumb/second$
-
-
-Electric current is the time rate of change of charge, measured in amperes $(A)$.
-The relation between current i, charge q, and time t
 $i \triangleq \frac{dq}{dt}$
 
+$1 ampere = 1 coulumb/second$
 
 The charge transferred between time t_0 and t is obtained by integrating both sides of Eq.
 
@@ -56,8 +51,10 @@ $Q \triangleq \int_{t_0}^{t} i \, dt$
 ## i (Two types of current)
 
 Direct current (DC)
+Flow in the same direction.
 
 Alternating current (AC)
+Two direction, back and forth.
 
 
 
